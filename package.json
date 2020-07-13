@@ -1,0 +1,23 @@
+{
+  "name": "jmurowaniecki",
+  "version": "0.0.0",
+  "description": "About John Murowaniecki",
+  "main": ".../main.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jmurowaniecki/jmurowaniecki.git"
+  },
+  "keywords": [
+    "about",
+    "developer"
+  ],
+  "author": "John Murowaniecki <jmurowaniecki@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmurowaniecki/jmurowaniecki/issues"
+  },
+  "homepage": "https://github.com/jmurowaniecki/jmurowaniecki#readme"
+}
