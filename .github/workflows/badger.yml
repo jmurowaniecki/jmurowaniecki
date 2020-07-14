@@ -1,0 +1,25 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Badgerr
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+
+  update-badges:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        repo-token: ${{ secrets.TOKEN }}
+      env:
+        TOKEN: ${{ secrets.TOKEN }}
+    - name: Run Makefile to generate badges based on repositories languages.
+      run: |
+        make languages
+        git commit -am '[skip ci] updating badges'
+        git push origin master

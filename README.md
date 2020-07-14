@@ -8,10 +8,10 @@
 [![Twitter      ][ico-twitter      ]][url-twitter      ]
 [![DEV          ][ico-devto        ]][url-devto        ]
 [![Stackoverflow][ico-stackoverflow]][url-stackoverflow]
-[![Codewars     ][ico-codewars     ]][url-codewars     ]
 [![Keybase.io   ][ico-keybase      ]][url-keybase      ]
 [![Stellar      ][ico-stellar      ]][url-stellar      ]
 [![HackerRank   ][ico-hackerrank   ]][url-hackerrank   ]
+[![Codewars     ][ico-codewars     ]][url-codewars     ]
 
 
 
@@ -47,15 +47,17 @@ Meu nome é João Paulo, mas me chama de **John**.
 
 #fullstack apaixonado, meu chão é **Linux**/Unix mas desenvolvo para resolver problemas de pessoas.
 
-> **Linguagens mais utilizadas:**
-javascript, php, python, typescript, c, harbour, makefile, c++, ruby, java.
+## Linguagens mais utilizadas
 
-### Adepto da metodologia **DOR**¹
+Σ
+
+## Metodologia D.O.R.¹
 _Desenvolvimento Orientado a Resultado_.
+
 
 ![](https://media.tenor.com/images/425701caa453c2d6e2abcc4bd83c95b0/tenor.gif)
 
 
-<small>¹ : Nenhuma tecnologia é melhor do que aquela na qual empregamos o menor esforço e obtemos o melhor resultado.</small>
+> ¹ : Nenhuma tecnologia é melhor do que aquela na qual empregamos o menor esforço e obtemos o melhor resultado.
 
-<center>👁 ∴ 🜏</center>
+👁 ∴ 🜏
