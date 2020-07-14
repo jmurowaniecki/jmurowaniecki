@@ -22,5 +22,7 @@ jobs:
 
     - name: Update repository.
       run: |
+        git config --global user.email "jmurowaniecki@gmail.com"
+        git config --global user.name "John's Shadow 🜏"
         git commit -am '[skip ci] updating badges'
         git push origin master
