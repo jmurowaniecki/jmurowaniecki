@@ -13,13 +13,14 @@ jobs:
   update-badges:
     runs-on: ubuntu-latest
     steps:
+
     - uses: actions/checkout@v2
-      with:
-        repo-token: ${{ secrets.TOKEN }}
+    - name: Run Makefile to generate badges based on repositories languages.
       env:
         TOKEN: ${{ secrets.TOKEN }}
-    - name: Run Makefile to generate badges based on repositories languages.
+      run: make languages
+
+    - name: Update repository.
       run: |
-        make languages
         git commit -am '[skip ci] updating badges'
         git push origin master
