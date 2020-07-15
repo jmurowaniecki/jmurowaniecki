@@ -17,7 +17,7 @@ HLP = sed -E 's/(`.*`)/\\e[1m\1\\e[0m/'
 
 DEFAULT: help
 
-
+accidents: # Update X days since last accident.
 
 languages: # Populate your README.md with badges of your most used languages.
 	@\
