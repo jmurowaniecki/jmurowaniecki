@@ -25,8 +25,8 @@ jobs:
 
     - name: Update repository.
       run: |
+        echo "Updating '${GITHUB_HEAD_REF}…'"
         git config --global user.email "jmurowaniecki@gmail.com"
         git config --global user.name "John's Shadow 🜏"
         git commit -am '[skip ci] updating badges' && \
-        echo "Updating '${GITHUB_REF}…'" && \
-        git push origin ${GITHUB_REF} || true
+        git push origin ${GITHUB_HEAD_REF} || true
