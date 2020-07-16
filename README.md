@@ -1,9 +1,12 @@
 # TECHNOLOGY AGNOSTIC¹
 ### FULLSTACK DEV / TECH LEAD
-ENFP-a, Father, Developer, Rocker, Warrior/Sorcerer/Bloodborne/Warlock, OCD, Nerd.
+#### BIOHACKING QUANTIC COACH ─ HIGH PRIEST OF THE VOID
+
+ENFP-a, Father, Developer, Rocker, OCD, [Warrior, Sorcerer, Bloodborne, Warlock], half-Nerd and **fully human**.
 
 [![Whatsapp     ][ico-whatsapp     ]][url-whatsapp     ]
 [![Twitter      ][ico-twitter      ]][url-twitter      ]
+[![Instagram    ][ico-instagram    ]][url-instagram    ]
 [![Telegram     ][ico-telegram     ]][url-telegram     ]
 [![Stellar      ][ico-stellar      ]][url-stellar      ]
 [![Stackoverflow][ico-stackoverflow]][url-stackoverflow]
@@ -51,6 +54,8 @@ Passionate about software development, philosophy, astronomy and science in gene
 [url-facebook     ]: https://facebook.com/jmurowaniecki
 [url-codewars     ]: https://www.codewars.com/users/jmurowaniecki
 [ico-codewars     ]: https://www.codewars.com/users/jmurowaniecki/badges/micro
+[url-instagram    ]: https://instagram.com/john.bmp
+[ico-instagram    ]: https://img.shields.io/badge/-Instagram-5B51D8?style=flat-square&labelColor=833AB4&logo=instagram&logoColor=405DE6
 [ico-whatsapp     ]: https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&labelColor=25D366&logo=whatsapp&logoColor=white
 [url-whatsapp     ]: https://api.whatsapp.com/send?phone=5551989042429&text=Hey%20john
 [ico-linkedin     ]: https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white
