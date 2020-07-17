@@ -21,11 +21,14 @@ jobs:
     - name: Run Makefile to generate badges based on repositories languages.
       env:
         TOKEN: ${{ secrets.TOKEN }}
+        BRANCH: ${{ github.event.pull_request.head.ref }}
       run: make languages
 
     - name: Update repository.
+      env:
+        BRANCH: ${{ github.event.pull_request.head.ref }}
       run: |
-        BRANCH="$(git branch --all  | grep '*' | sed -E 's/^.* (.*\w).*$/\1/')"
+        BRANCH="${BRANCH:-(git branch --all  | grep '*' | sed -E 's/^.* (.*\w).*$/\1/')}"
         echo "Updating '${BRANCH}…'"
         git config --global user.email "jmurowaniecki@gmail.com"
         git config --global user.name "John's Shadow 🜏"
