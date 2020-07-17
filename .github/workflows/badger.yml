@@ -25,7 +25,7 @@ jobs:
 
     - name: Update repository.
       run: |
-        BRANCH="$(git branch --show-current)"
+        BRANCH="$(git branch --all  | grep '*' | sed -E 's/^.* (.*\w).*$/\1/')"
         echo "Updating '${BRANCH}…'"
         git config --global user.email "jmurowaniecki@gmail.com"
         git config --global user.name "John's Shadow 🜏"
