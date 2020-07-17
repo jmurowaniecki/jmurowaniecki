@@ -1,5 +1,5 @@
-# TECHNOLOGY AGNOSTIC¹
-### FULLSTACK DEV / TECH LEAD
+# FULLSTACK DEV / TECH LEAD
+## TECHNOLOGY AGNOSTIC¹
 #### BIOHACKING QUANTIC COACH ─ HIGH PRIEST OF THE VOID
 
 ENFP-a, Father, Developer, Rocker, OCD, [Warrior, Sorcerer, Bloodborne, Warlock], half-Nerd and **fully human**.
@@ -23,11 +23,12 @@ ENFP-a, Father, Developer, Rocker, OCD, [Warrior, Sorcerer, Bloodborne, Warlock]
 
 Passionate about software development, philosophy, astronomy and science in general in a deep relationship with the occult, theosophy, astrology and alchemy. Via sinistræ 🜏. **Linux**/Unix heavy user. [Guitar player in his spare time](https://www.youtube.com/watch?v=mb6Zof65wi0).
 
-![](https://img.shields.io/badge/Linux-🖤-231313?style=flat-square&logo=linux&logoColor=fff&color=f00)
-![](https://img.shields.io/badge/-Debian-231313?style=flat-square&logo=debian&logoColor=FC4233)
-![](https://img.shields.io/badge/-Ubuntu-231313?style=flat-square&logo=canonical&logoColor=DD4814)
-![](https://img.shields.io/badge/-.*[NIX]-231313?style=flat-square&logo=gnu&logoColor=silver)
-![](https://img.shields.io/badge/-.*[BSD]-231313?style=flat-square&logo=openbsd&logoColor=lime)
+![#](https://img.shields.io/badge/d20-696969?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAqCAYAAADbCvnoAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOnQAADp0B1dOxOQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAARASURBVFiFxZhPbFVFFMZ/rQgCBZFCLJgSQa3ERhddQDDCqoGNrlRSARVE3bIwxKgbIiiNERJYaCSUAAuD4AJCjEYWJIQFhWBMEDQYJYFAQf4IsdpSoNfFOdM5d97cea+PV/iSyXt35sw53/w538y9cPd4CtgPHABaa+CvaowH1gD9QKZlANgEPHwvidQBbwA9hkhYrgCrgPqRJjMH6I4QuKolrO/WPjVHE/AVcCcSNAOWAssK2gaB3UBzLYiMBlYDN8gvR5cGyoC9xn6vIdGltq7fDfU1uloy7cBJ4/AWMkuPAScMuSbTZyrwl7adAqYhm/yW8fM78OpwiLg0ttN+EHhO29eb+tci/ZeY9k+17mng+8BnWZmIpfE5JKMc2pDUzoB9CV/fqs1t8pv6JeBP4z8qE7E0/lfJjTV2Y4Bf8Ev1aILQVOCS2v4KPGTaxgLvA/+Q35dDMmHTeBDYRTwjOo1dR4KMQ4ex74y0N2usUCZyFeeRzRxiLjL9GbIclcIu3dxIeztwIeAQ1Y79wCztZJfqMumlCjEFv3S/4bdAM7CzIPbQnz3IJnbPfcBaYLOpWzwMMg6LTf/NwDr1bRNnj3uuc6yAt5E1/QB4j/xGBMmIQ1UQAlhAqSD2AxsQGekAtroGx3SlMU5NaS2K3RJo7AzIRhWM6Bwi/a+buh7gcPEkJPECotoOnyN6FEVshkCU1I6qD3i8CjLNiK5ZXz8GNitNW5TQHFO/Cb8Jd1VByGlNn/pyfq2ClyW0D6+gDciZ5OzmD4PMPPyt4BNgHP7wtbeEJKFW/L3nQ61rwAvYT1R2E6wHjmqfi8BErf8Ifyo8WwkhN8XXgUkmwFvG9s0KCC039itM/UTgb63/uhyhJ/BHxNrIiI9FRhxDA3IMFc3oOvyR0pIitE3/9yIndojn8XsiJBwLmCGiGKIRf9p3FRFaA9zU/xsSwXaTlgGb5t8k/GxUmwHg4xihy/rbD0xPOJpJWgZsms9M+JmOvwy62DlCrnyRcOJQJANhmpfDl5H4uYeBMqNyiMlAUZqnMAN/JY4S2l6BE4dQBpab5xXF3UqwI0XoHUQYpyEXsxTqgePa7zw+zY9TXjjHaIxWjTnEwd6HYugFrpniXpndcwvwbtBnC3AamKylUctkUxpSbI9QurHuV+muw78GdZJ/C/0DuaSNNyO1o2yk9Fbp0E9+Jq+Z5/80nr2gXURuqjuskwnAZ3hxzIAzwMsFQUFO70XGfpHWFeEV9ensb2rMZEY+iVdjVw7iX6VDtBm7tgKb2cAPgc8DwDMpIiHa8a8/GXIl2UnpGZci9AilHxtOAy8Oh4jFg8gr7nXj8KrWPZAgVI/sk0umrRc5L8vJSUVoREZqP1idAhZGCC0AfjZ1g8jMNpV4rQFin/QOF/zPGMFPehZ1yAens0FwW3oQwRzxj54Wqc/ClRysI4YW4DstLXfr7H+GUDOHYR0DZAAAAABJRU5ErkJggg==&logoColor=f00)
+![#](https://img.shields.io/badge/Linux-🖤-231313?style=flat-square&logo=linux&logoColor=fff&color=f00)
+![#](https://img.shields.io/badge/-Debian-231313?style=flat-square&logo=debian&logoColor=FC4233)
+![#](https://img.shields.io/badge/-Ubuntu-231313?style=flat-square&logo=canonical&logoColor=DD4814)
+![#](https://img.shields.io/badge/-.*[NIX]-231313?style=flat-square&logo=gnu&logoColor=silver)
+![#](https://img.shields.io/badge/-.*[BSD]-231313?style=flat-square&logo=openbsd&logoColor=lime)
 
 
 ¹ : _focused on solve peoples problems._
@@ -45,7 +46,7 @@ Passionate about software development, philosophy, astronomy and science in gene
 [ico-github       ]: https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=fff&labelColor=000
 [url-github       ]: https://github.com/jmurowaniecki
 [ico-twitter      ]: https://img.shields.io/badge/-Twitter-55ACEE?style=flat-square&labelColor=55ACEE&logo=twitter&logoColor=white
-[url-twitter      ]: https://twitter.com/0xD3C0D3
+[url-twitter      ]: https://twitter.com/0xD3C0de
 [ico-keybase      ]: https://img.shields.io/badge/-Keybase.io-69e?style=flat-square&logo=keybase&logoColor=white
 [url-keybase      ]: https://keybase.io/jmurowaniecki
 [ico-stellar      ]: https://img.shields.io/badge/Stellar-lumens-000?style=flat-square&logo=stellar&logoColor=white&labelColor=c39
@@ -75,3 +76,6 @@ Passionate about software development, philosophy, astronomy and science in gene
 Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 
 👁 ∴ 🜏
+
+
+###### d20 dice by Andrew Doane from the Noun Project
