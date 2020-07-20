@@ -61,7 +61,7 @@ books: # Recomended books
 		from=$$(o "$${E}"    | sed -e 's/∴/./' | sed -E "$${sanitize}"); \
 		safe=$$(o "![$${name}][book-$${data}]" | sed -E "$${sanitize}"); \
 		[ ! -e "$${BOOKS}" ] && o >"$${BOOKS}"; \
-		o "$${E}""""$${pict}""" >> "$${BOOKS}"; \
+		o "$${E}" "$${pict}""" >>"""$${BOOKS}"; \
 		sed -E "s/^$${from}$$/$${safe}/" "README.md" > \
 		"$${README}" && (mv "$${README}" "README.md"); \
 	done; [ -e "$${BOOKS}" ] \
