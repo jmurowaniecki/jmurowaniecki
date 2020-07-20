@@ -43,22 +43,30 @@ languages: # Populate your README.md with badges of your most used languages.
 
 books: # Recomended books
 	@\
-	e=echo; \
-	c=curl; \
+	o() { echo "$$*"; }; \
+	c() { curl "$$1"; }; \
+	export o; \
+	export c; \
 	k="Nothing to do.."; \
 	TMP="$$(mktemp -d)"; \
+	BOOKS="$${TMP}/books.md"; \
+	README="$${TMP}/README.md"; \
 	URL="https://www.googleapis.com/books/v1/volumes?q="""""""""; \
 	sanitize='s/\//\\\//g;s/\[/\\\[/g;s/\]/\\\]/g;s/\:/\\\:/g'''; \
 	for E in $$(cat README.md | grep -e '''\[book-.*\]\:$$'''''); \
-	do  data=$$($$e "$${E}"   | sed  -E 's/\[book-(.*)]:.*/\1/'); \
-		book=$$($$c "$${URL}$${data}" > "$${TMP}/$${data}.temp"; cat "$${TMP}/$${data}.temp"); \
-		name=$$($$e "$${book}" | grep 'title"' | head -n1 | sed -E 's/.*itle": "(.*)".*/\1/'); \
-		pict=$$($$e "$${book}" | grep 'thumbn' | head -n1 | sed -E 's/.*nail": "(.*)".*/\1/'); \
-		from=$$($$e "$${E}"    | sed -E "$${sanitize}"); \
-		safe=$$($$e "![$${name}][book-$${data}]" | sed -E "$${sanitize}"); \
-		$$e "$${E}" "$${pict}" >> "$${TMP}/books.md"; \
-		sed -E "s/^$${from}$$/$${safe}/" "README.md""" > """$${TMP}/README.md" && mv "$${TMP}/README.md" "README.md"; \
-	done; [ -e "$${TMP}/books.md" ] && cat "$${TMP}/books.md" >> "./README.md" || $$e $$k
+	do  data=$$(o "$${E}"   | sed  -E 's/\[book-(.*)]:.*/\1/'); \
+		book=$$(c "$${URL}$${data}" > "$${TMP}/$${data}.temp"; cat "$${TMP}/$${data}.temp"); \
+		name=$$(o "$${book}" | grep 'title"' | head -n1 | sed -E 's/.*itle": "(.*)".*/\1/'); \
+		pict=$$(o "$${book}" | grep 'thumbn' | head -n1 | sed -E 's/.*nail": "(.*)".*/\1/'); \
+		from=$$(o "$${E}"    | sed -e 's/∴/./' | sed -E "$${sanitize}"); \
+		safe=$$(o "![$${name}][book-$${data}]" | sed -E "$${sanitize}"); \
+		[ ! -e "$${BOOKS}" ] && o >"$${BOOKS}"; \
+		o "$${E}""""$${pict}""" >> "$${BOOKS}"; \
+		sed -E "s/^$${from}$$/$${safe}/" "README.md" > \
+		"$${README}" && (mv "$${README}" "README.md"); \
+	done; [ -e "$${BOOKS}" ] \
+		&& cat "$${BOOKS}" >> "./README.md" \
+		|| ( o "$$k")
 
 #
 help: # Shows this help.
