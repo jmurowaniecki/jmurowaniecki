@@ -23,9 +23,12 @@ ENFP-a, Father, Developer, Rocker, OCD, [Warrior, Sorcerer, Bloodborne, Warlock]
 [![Codewars     ][ico-codewars     ]][url-codewars     ]
 
 
+
 Passionate about software development, philosophy, astronomy and science in general in a deep relationship with the occult, theosophy, astrology and alchemy. Via sinistræ 🜏. **Linux**/Unix heavy user. [Guitar player in his spare time](https://www.youtube.com/watch?v=mb6Zof65wi0).
 
 ¹ : _focused on solve peoples problems._
+
+
 
 ![#](https://img.shields.io/badge/d20-333?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACQAAAAqCAYAAADbCvnoAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAOnQAADp0B1dOxOQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAARASURBVFiFxZhPbFVFFMZ/rQgCBZFCLJgSQa3ERhddQDDCqoGNrlRSARVE3bIwxKgbIiiNERJYaCSUAAuD4AJCjEYWJIQFhWBMEDQYJYFAQf4IsdpSoNfFOdM5d97cea+PV/iSyXt35sw53/w538y9cPd4CtgPHABaa+CvaowH1gD9QKZlANgEPHwvidQBbwA9hkhYrgCrgPqRJjMH6I4QuKolrO/WPjVHE/AVcCcSNAOWAssK2gaB3UBzLYiMBlYDN8gvR5cGyoC9xn6vIdGltq7fDfU1uloy7cBJ4/AWMkuPAScMuSbTZyrwl7adAqYhm/yW8fM78OpwiLg0ttN+EHhO29eb+tci/ZeY9k+17mng+8BnWZmIpfE5JKMc2pDUzoB9CV/fqs1t8pv6JeBP4z8qE7E0/lfJjTV2Y4Bf8Ev1aILQVOCS2v4KPGTaxgLvA/+Q35dDMmHTeBDYRTwjOo1dR4KMQ4ex74y0N2usUCZyFeeRzRxiLjL9GbIclcIu3dxIeztwIeAQ1Y79wCztZJfqMumlCjEFv3S/4bdAM7CzIPbQnz3IJnbPfcBaYLOpWzwMMg6LTf/NwDr1bRNnj3uuc6yAt5E1/QB4j/xGBMmIQ1UQAlhAqSD2AxsQGekAtroGx3SlMU5NaS2K3RJo7AzIRhWM6Bwi/a+buh7gcPEkJPECotoOnyN6FEVshkCU1I6qD3i8CjLNiK5ZXz8GNitNW5TQHFO/Cb8Jd1VByGlNn/pyfq2ClyW0D6+gDciZ5OzmD4PMPPyt4BNgHP7wtbeEJKFW/L3nQ61rwAvYT1R2E6wHjmqfi8BErf8Ifyo8WwkhN8XXgUkmwFvG9s0KCC039itM/UTgb63/uhyhJ/BHxNrIiI9FRhxDA3IMFc3oOvyR0pIitE3/9yIndojn8XsiJBwLmCGiGKIRf9p3FRFaA9zU/xsSwXaTlgGb5t8k/GxUmwHg4xihy/rbD0xPOJpJWgZsms9M+JmOvwy62DlCrnyRcOJQJANhmpfDl5H4uYeBMqNyiMlAUZqnMAN/JY4S2l6BE4dQBpab5xXF3UqwI0XoHUQYpyEXsxTqgePa7zw+zY9TXjjHaIxWjTnEwd6HYugFrpniXpndcwvwbtBnC3AamKylUctkUxpSbI9QurHuV+muw78GdZJ/C/0DuaSNNyO1o2yk9Fbp0E9+Jq+Z5/80nr2gXURuqjuskwnAZ3hxzIAzwMsFQUFO70XGfpHWFeEV9ensb2rMZEY+iVdjVw7iX6VDtBm7tgKb2cAPgc8DwDMpIiHa8a8/GXIl2UnpGZci9AilHxtOAy8Oh4jFg8gr7nXj8KrWPZAgVI/sk0umrRc5L8vJSUVoREZqP1idAhZGCC0AfjZ1g8jMNpV4rQFin/QOF/zPGMFPehZ1yAens0FwW3oQwRzxj54Wqc/ClRysI4YW4DstLXfr7H+GUDOHYR0DZAAAAABJRU5ErkJggg==&labelColor=EEE)
 ![#](https://img.shields.io/badge/Linux-🖤-131313?style=flat-square&logo=linux&logoColor=fff&color=F11&labelColor=131313)
@@ -34,12 +37,14 @@ Passionate about software development, philosophy, astronomy and science in gene
 ![#](https://img.shields.io/badge/-.*[NIX]-231313?style=flat-square&logo=gnu&logoColor=silver)
 ![#](https://img.shields.io/badge/-.*[BSD]-231313?style=flat-square&logo=openbsd&logoColor=lime)
 
+
+
 <details>
-    <summary>Gear info</summary>
+    <summary>About software and gear info…</summary>
 Everything as usual… A common notebook, a common keyboard, a common desk (with a common skull, a common black candle, a common crystal goblet, some common fountain ink pens and some other ordinary things).
 
-If you want to see 👁 with your own eyes, place a ISSUE for photos.
-
+\
+Soon… 👁
 </details>
 
 
@@ -85,10 +90,15 @@ If you want to see 👁 with your own eyes, place a ISSUE for photos.
 
 ![](https://img.shields.io/badge/-Σ-108?style=flat-square&logo=Σ&logoColor=fff)![](https://img.shields.io/badge/-JavaScript-12A?style=flat-square&logo=JavaScript&logoColor=fff)![](https://img.shields.io/badge/-HTML-147?style=flat-square&logo=HTML&logoColor=fff)![](https://img.shields.io/badge/-Shell-162?style=flat-square&logo=Shell&logoColor=fff)![](https://img.shields.io/badge/-CSS-176?style=flat-square&logo=CSS&logoColor=fff)![](https://img.shields.io/badge/-Makefile-18A?style=flat-square&logo=Makefile&logoColor=fff)![](https://img.shields.io/badge/-PHP-196?style=flat-square&logo=PHP&logoColor=fff)![](https://img.shields.io/badge/-C-1A0?style=flat-square&logo=C&logoColor=fff)![](https://img.shields.io/badge/-Batchfile-1A7?style=flat-square&logo=Batchfile&logoColor=fff)![](https://img.shields.io/badge/-Python-1AE?style=flat-square&logo=Python&logoColor=fff)![](https://img.shields.io/badge/-Perl-1B4?style=flat-square&logo=Perl&logoColor=fff)![](https://img.shields.io/badge/-Java-1B9?style=flat-square&logo=Java&logoColor=fff)![](https://img.shields.io/badge/-M4-1BE?style=flat-square&logo=M4&logoColor=fff)![](https://img.shields.io/badge/-Roff-1C3?style=flat-square&logo=Roff&logoColor=fff)![](https://img.shields.io/badge/-NSIS-1C7?style=flat-square&logo=NSIS&logoColor=fff)![](https://img.shields.io/badge/-Assembly-1CA?style=flat-square&logo=Assembly&logoColor=fff)![](https://img.shields.io/badge/-Awk-1CD?style=flat-square&logo=Awk&logoColor=fff)![](https://img.shields.io/badge/-CMake-1D0?style=flat-square&logo=CMake&logoColor=fff)![](https://img.shields.io/badge/-Fortran-1D3?style=flat-square&logo=Fortran&logoColor=fff)![](https://img.shields.io/badge/-Ruby-1D6?style=flat-square&logo=Ruby&logoColor=fff)![](https://img.shields.io/badge/-Yacc-1D9?style=flat-square&logo=Yacc&logoColor=fff)![](https://img.shields.io/badge/-Ada-1DB?style=flat-square&logo=Ada&logoColor=fff)![](https://img.shields.io/badge/-ApacheConf-1DD?style=flat-square&logo=ApacheConf&logoColor=fff)![](https://img.shields.io/badge/-COBOL-1DF?style=flat-square&logo=COBOL&logoColor=fff)![](https://img.shields.io/badge/-Clean-1E1?style=flat-square&logo=Clean&logoColor=fff)![](https://img.shields.io/badge/-Dockerfile-1E3?style=flat-square&logo=Dockerfile&logoColor=fff)![](https://img.shields.io/badge/-Go-1E5?style=flat-square&logo=Go&logoColor=fff)![](https://img.shields.io/badge/-Lex-1E7?style=flat-square&logo=Lex&logoColor=fff)![](https://img.shields.io/badge/-Lua-1E9?style=flat-square&logo=Lua&logoColor=fff)![](https://img.shields.io/badge/-Nginx-1EB?style=flat-square&logo=Nginx&logoColor=fff)![](https://img.shields.io/badge/-PLSQL-1ED?style=flat-square&logo=PLSQL&logoColor=fff)![](https://img.shields.io/badge/-Pascal-1EF?style=flat-square&logo=Pascal&logoColor=fff)![](https://img.shields.io/badge/-SAS-1F1?style=flat-square&logo=SAS&logoColor=fff)![](https://img.shields.io/badge/-SaltStack-1F3?style=flat-square&logo=SaltStack&logoColor=fff)![](https://img.shields.io/badge/-Smarty-1F5?style=flat-square&logo=Smarty&logoColor=fff)![](https://img.shields.io/badge/-SourcePawn-1F7?style=flat-square&logo=SourcePawn&logoColor=fff)![](https://img.shields.io/badge/-TypeScript-1F9?style=flat-square&logo=TypeScript&logoColor=fff)![](https://img.shields.io/badge/-XSLT-1FB?style=flat-square&logo=XSLT&logoColor=fff)![](https://img.shields.io/badge/-xBase-1FD?style=flat-square&logo=xBase&logoColor=fff)![](https://img.shields.io/badge/-CLIPS-1FE?style=flat-square&logo=CLIPS&logoColor=fff)![](https://img.shields.io/badge/-D-1FF?style=flat-square&logo=D&logoColor=fff)![](https://img.shields.io/badge/-Forth-200?style=flat-square&logo=Forth&logoColor=fff)![](https://img.shields.io/badge/-FreeMarker-201?style=flat-square&logo=FreeMarker&logoColor=fff)![](https://img.shields.io/badge/-Groovy-202?style=flat-square&logo=Groovy&logoColor=fff)![](https://img.shields.io/badge/-Harbour-203?style=flat-square&logo=Harbour&logoColor=fff)![](https://img.shields.io/badge/-Kotlin-204?style=flat-square&logo=Kotlin&logoColor=fff)![](https://img.shields.io/badge/-Logos-205?style=flat-square&logo=Logos&logoColor=fff)![](https://img.shields.io/badge/-MATLAB-206?style=flat-square&logo=MATLAB&logoColor=fff)![](https://img.shields.io/badge/-MAXScript-207?style=flat-square&logo=MAXScript&logoColor=fff)![](https://img.shields.io/badge/-Max-208?style=flat-square&logo=Max&logoColor=fff)![](https://img.shields.io/badge/-Pawn-209?style=flat-square&logo=Pawn&logoColor=fff)![](https://img.shields.io/badge/-PostScript-20A?style=flat-square&logo=PostScript&logoColor=fff)![](https://img.shields.io/badge/-PowerShell-20B?style=flat-square&logo=PowerShell&logoColor=fff)![](https://img.shields.io/badge/-Rust-20C?style=flat-square&logo=Rust&logoColor=fff)![](https://img.shields.io/badge/-Scala-20D?style=flat-square&logo=Scala&logoColor=fff)![](https://img.shields.io/badge/-Smalltalk-20E?style=flat-square&logo=Smalltalk&logoColor=fff)![](https://img.shields.io/badge/-TeX-20F?style=flat-square&logo=TeX&logoColor=fff)![](https://img.shields.io/badge/-Vala-210?style=flat-square&logo=Vala&logoColor=fff)
 
-![](https://github-readme-stats.vercel.app/api?username=jmurowaniecki&show_icons=true&title_color=efefef&icon_color=f13&text_color=424242&bg_color=131313)
+
 
 > **Hey, you!** Wanna know how I did this automatically using Github actions?
 Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
+
+
+
+![](https://github-readme-stats.vercel.app/api?username=jmurowaniecki&show_icons=true&title_color=efefef&icon_color=f13&text_color=424242&bg_color=131313)
+
 
 <!-- Configuration:
 background: 131313
