@@ -67,16 +67,16 @@ Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 
 ## Recomended books
 
-[book-corpus_hermeticum]:
-[book-a_doutrina_secreta]:
-[book-o_caibalion]:
-[book-o_portico_e_a_câmara_do_meio]:
-[book-três_livros_de_filosofia_oculta]:
-[book-brave_new_world_aldous_huxley]:
-[book-quando_roubar_um_banco]:
-[book-o_poder_do_hábito]:
-[book-o_universo_numa_casca_de_noz]:
-[book-i_robot]:
+![Corpus Hermeticum][book-corpus_hermeticum]
+![Doutrina Secreta, a - Vol. Iv][book-a_doutrina_secreta]
+![O Caibalion][book-o_caibalion]
+![Indo-Aryan Deities and Worship][book-o_portico_e_a_câmara_do_meio]
+![Shem Ha-Mephoresh][book-três_livros_de_filosofia_oculta]
+![Brave New World, Aldous Huxley][book-brave_new_world_aldous_huxley]
+![Quando roubar um banco][book-quando_roubar_um_banco]
+![O poder do hábito][book-o_poder_do_hábito]
+![O universo numa casca de noz][book-o_universo_numa_casca_de_noz]
+![I, Robot][book-i_robot]
 
 
 
@@ -126,3 +126,14 @@ Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 [ico-telegram     ]: https://img.shields.io/badge/Telegram-131313?style=flat-square&logo=telegram
 [ico-hackerrank   ]: https://img.shields.io/badge/HackerRank-131313?style=flat-square&logo=hackerrank
 [ico-stackoverflow]: https://img.shields.io/badge/Stackoverflow-131313?style=flat-square&logo=Stackoverflow
+
+[book-corpus_hermeticum]: http://books.google.com/books/content?id=nzrRHAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+[book-a_doutrina_secreta]: http://books.google.com/books/content?id=lLAAgitvTK8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+[book-o_caibalion]: http://books.google.com/books/content?id=H0H_CQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+[book-o_portico_e_a_câmara_do_meio]: http://books.google.com/books/content?id=DSjYoAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+[book-três_livros_de_filosofia_oculta]: http://books.google.com/books/content?id=ZKA8CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+[book-brave_new_world_aldous_huxley]: http://books.google.com/books/content?id=Uu9fPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+[book-quando_roubar_um_banco]: http://books.google.com/books/content?id=XC16DQAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+[book-o_poder_do_hábito]: http://books.google.com/books/content?id=k0j8IgiMKoMC&printsec=frontcover&img=1&zoom=1&source=gbs_api
+[book-o_universo_numa_casca_de_noz]: http://books.google.com/books/content?id=NXxVCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
+[book-i_robot]: http://books.google.com/books/content?id=zRhpPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
