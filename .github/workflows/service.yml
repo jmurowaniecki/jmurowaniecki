@@ -1,11 +1,7 @@
-# This is a basic workflow to help you get started with Actions
-
-name: Badgerr
+name: Service
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
     branches: [ master ]
 
   schedule:
@@ -18,16 +14,16 @@ jobs:
     steps:
 
     - uses: actions/checkout@v2
-    - name: Run Makefile to generate badges based on repositories languages.
+    - name: Run Makefile to generate badges based on repositories languages and book listing.
       env:
         TOKEN: ${{ secrets.TOKEN }}
-      run: make languages
+      run: make languages books
 
     - name: Update repository.
       run: |
         BRANCH="$(git branch --show-current)"
         echo "Updating '${BRANCH}…'"
         git config --global user.email "jmurowaniecki@gmail.com"
-        git config --global user.name "John's Shadow 🜏"
-        git commit -am '[skip ci] updating badges' && \
+        git config --global user.name  "John's Shadow 🜏"
+        git commit -am '[skip ci] updating README…' && \
         git push origin ${BRANCH} || true
