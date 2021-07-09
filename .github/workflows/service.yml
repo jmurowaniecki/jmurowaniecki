@@ -14,16 +14,17 @@ jobs:
     steps:
 
 
-    - name: Set up Go 1.16
+    - name: Set up Go 1.16 and update book covers
       uses: actions/setup-go@v1
       with:
         go-version: 1.16
+      run: make covers clean
 
     - uses: actions/checkout@v2
     - name: Run Makefile to generate badges based on repositories languages and book listing.
       env:
         TOKEN: ${{ secrets.TOKEN }}
-      run: make languages books covers clean
+      run: make languages books
 
     - name: Update repository.
       run: |
