@@ -69,7 +69,7 @@ books: # Recomended books
 		|| ( o "$$k")
 
 covers: # Process book covers
-	@./book-covers
+	@go run book-covers.go
 
 clean: # Remove temporary files.
 	@rm -Rf temporary*
