@@ -13,6 +13,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
+    - uses: actions/checkout@v2
+    - name: Run Makefile to generate badges based on repositories languages and book listing.
+      env:
+        TOKEN: ${{ secrets.TOKEN }}
+      run: make languages books
 
     - name: Set up Go 1.16
       uses: actions/setup-go@v2
@@ -21,12 +26,6 @@ jobs:
 
     - name: Update book covers
       run: make covers clean
-
-    - uses: actions/checkout@v2
-    - name: Run Makefile to generate badges based on repositories languages and book listing.
-      env:
-        TOKEN: ${{ secrets.TOKEN }}
-      run: make languages books
 
     - name: Update repository.
       run: |
