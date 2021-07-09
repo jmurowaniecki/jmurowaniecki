@@ -17,7 +17,7 @@ jobs:
     - name: Run Makefile to generate badges based on repositories languages and book listing.
       env:
         TOKEN: ${{ secrets.TOKEN }}
-      run: make languages books
+      run: make languages books covers clean
 
     - name: Update repository.
       run: |

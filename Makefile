@@ -68,10 +68,16 @@ books: # Recomended books
 		&& cat "$${BOOKS}" >> "./README.md" \
 		|| ( o "$$k")
 
+covers: # Process book covers
+	@./book-covers
+
+clean: # Remove temporary files.
+	@rm -Rf temporary*
+
 #
 help: # Shows this help.
 	@\
-	echo """"""""""""""""""""""""""" \
+	echo -e """""""""""""""""""""""  \
 	$$(awk 'BEGIN {   FS=":.*?#"   } \
 	/^(\w+:.*|)#/ {                  \
 	gsub("^( : |)#( |)", """""""" ); \

@@ -67,16 +67,16 @@ Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 
 ## Recomended books
 
-![Corpus Hermeticum][book-corpus_hermeticum]
-![Doutrina Secreta, a - Vol. Iv][book-a_doutrina_secreta]
-![O Caibalion][book-o_caibalion]
-![Indo-Aryan Deities and Worship][book-o_portico_e_a_câmara_do_meio]
-![Shem Ha-Mephoresh][book-três_livros_de_filosofia_oculta]
-![Brave New World, Aldous Huxley][book-brave_new_world_aldous_huxley]
-![Quando roubar um banco][book-quando_roubar_um_banco]
-![O poder do hábito][book-o_poder_do_hábito]
-![O universo numa casca de noz][book-o_universo_numa_casca_de_noz]
-![I, Robot][book-i_robot]
+![Corpus Hermeticum             ][book-corpus_hermeticum-ok              ]
+![Doutrina Secreta, a - Vol. Iv ][book-a_doutrina_secreta-ok             ]
+![O Caibalion                   ][book-o_caibalion-ok                    ]
+![Indo-Aryan Deities and Worship][book-o_portico_e_a_câmara_do_meio-ok   ]
+![Shem Ha-Mephoresh             ][book-três_livros_de_filosofia_oculta-ok]
+![Brave New World, Aldous Huxley][book-brave_new_world_aldous_huxley-ok  ]
+![Quando roubar um banco        ][book-quando_roubar_um_banco-ok         ]
+![O poder do hábito             ][book-o_poder_do_hábito-ok              ]
+![O universo numa casca de noz  ][book-o_universo_numa_casca_de_noz-ok   ]
+![I, Robot                      ][book-i_robot-ok                        ]
 
 
 
@@ -137,3 +137,15 @@ Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 [book-o_poder_do_hábito]: http://books.google.com/books/content?id=k0j8IgiMKoMC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 [book-o_universo_numa_casca_de_noz]: http://books.google.com/books/content?id=NXxVCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 [book-i_robot]: http://books.google.com/books/content?id=zRhpPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
+
+
+[book-corpus_hermeticum-ok              ]: .../covers/corpus_hermeticum.png
+[book-a_doutrina_secreta-ok             ]: .../covers/a_doutrina_secreta.png
+[book-o_caibalion-ok                    ]: .../covers/o_caibalion.png
+[book-o_portico_e_a_câmara_do_meio-ok   ]: .../covers/o_portico_e_a_câmara_do_meio.png
+[book-três_livros_de_filosofia_oculta-ok]: .../covers/três_livros_de_filosofia_oculta.png
+[book-brave_new_world_aldous_huxley-ok  ]: .../covers/brave_new_world_aldous_huxley.png
+[book-quando_roubar_um_banco-ok         ]: .../covers/quando_roubar_um_banco.png
+[book-o_poder_do_hábito-ok              ]: .../covers/o_poder_do_hábito.png
+[book-o_universo_numa_casca_de_noz-ok   ]: .../covers/o_universo_numa_casca_de_noz.png
+[book-i_robot-ok                        ]: .../covers/i_robot.png
