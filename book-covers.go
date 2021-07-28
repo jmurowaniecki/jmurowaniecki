@@ -19,12 +19,10 @@ import (
 )
 
 func main() {
-
-
     README, _ := os.Open("README.md")
     scanner := bufio.NewScanner(README)
 
-    re := regexp.MustCompile(`\[book\-(.*)\]: (.*)`)
+    re := regexp.MustCompile(`\[book\-(.*)\]: http(.*)`)
 
     for scanner.Scan() {
         if re.MatchString(scanner.Text()) {
@@ -33,7 +31,7 @@ func main() {
             target := sub[1]
             source := sub[2]
 
-            processImage(".../covers/"+target+".png", source)
+            processImage(".../covers/" + target + ".png", "http" + source)
         }
     }
 }
@@ -55,8 +53,8 @@ func processImage(target string, source string) {
     src = imaging.Resize(src, 0, 200, imaging.Lanczos)
     prp := 20000 / imgData.Height
 
-    dst := imaging.New(200, 200, color.NRGBA{0, 0, 0, 0})
-    dst = imaging.Paste(dst, src, image.Pt(100 - (imgData.Width * prp / 100) / 2, 0))
+    dst := imaging.New(150, 200, color.NRGBA{0, 0, 0, 0})
+    dst = imaging.Paste(dst, src, image.Pt(75 - (imgData.Width * prp / 100) / 2, 0))
 
     err = imaging.Save(dst, target)
     if err != nil {
