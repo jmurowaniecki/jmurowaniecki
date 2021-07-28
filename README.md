@@ -104,7 +104,7 @@ Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 [url-facebook     ]: https://facebook.com/jmurowaniecki
 [url-codewars     ]: https://www.codewars.com/users/jmurowaniecki
 [url-whatsapp     ]: https://api.whatsapp.com/send?phone=5551989042429&text=Hey%20john
-[url-linkedin     ]: https://www.linkedin.com/in/php-developer/
+[url-linkedin     ]: https://www.linkedin.com/in/lambdadeveloper/
 [url-telegram     ]: https://t.me/jmurowaniecki
 [url-instagram    ]: https://instagram.com/john.bmp
 [url-hackerrank   ]: https://www.hackerrank.com/jmurowaniecki?hr_r=1
@@ -137,7 +137,6 @@ Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 [book-o_poder_do_hábito]: http://books.google.com/books/content?id=k0j8IgiMKoMC&printsec=frontcover&img=1&zoom=1&source=gbs_api
 [book-o_universo_numa_casca_de_noz]: http://books.google.com/books/content?id=NXxVCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api
 [book-i_robot]: http://books.google.com/books/content?id=zRhpPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api
-
 
 [book-corpus_hermeticum-ok              ]: .../covers/corpus_hermeticum.png
 [book-a_doutrina_secreta-ok             ]: .../covers/a_doutrina_secreta.png
