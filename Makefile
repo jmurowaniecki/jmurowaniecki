@@ -23,6 +23,7 @@ accidents: # Update X days since last accident.
 
 languages: # Populate your README.md with badges of your most used languages.
 	@\
+	[ ! -e langs.json ] && \
 	curl -H "Authorization: bearer $${TOKEN}" -X POST -d "\
 	{\"query\": \"query{ viewer{ login, repositories(last:100){ nodes{ name, languages(last:100){ nodes{ lang: name }}}}}, rateLimit{ remaining }}\" \
 	}" https://api.github.com/graphql > langs.json; \
@@ -37,8 +38,8 @@ languages: # Populate your README.md with badges of your most used languages.
 		QTDE="$$(cat "$${TEMP}/$${lang}" | wc -l)"; \
 		NUMB="$$((NUMB + QTDE))"; \
 		color=$$(echo "obase=16;$${NUMB}" | bc | awk '{ print("00000"$$1); }' | tail -c4); \
-		printf "![](https://img.shields.io/badge/-%s-%s?style=flat-square&logo=%s&logoColor=fff)" "$${lang}" "$${color}" "$${lang}"; \
-	done > badges.md; sed -e '/^.*Σ.*$$/e cat badges.md' -e 's/^.*Σ.*$$//' $(TARGET) > README.tmp; mv README.tmp $(TARGET); \
+		printf "![lang %-10s](https://img.shields.io/badge/-%s-%s?style=flat-square&logo=%s&logoColor=fff)\n" "$${lang}" "$${lang}" "$${color}" "$${lang}"; \
+	done > badges.md; sed -e '/^!\[lang.*$$/d; /Most used languages$$/a Σ' $(TARGET); sed -e '/^Σ$$/e cat badges.md' $(TARGET) -e '/^[|.]*Σ.*$$/d' > README.tmp; mv README.tmp $(TARGET); \
 	rm -Rf badges.md langs.json "$${TEMP}"
 
 books: # Recomended books
