@@ -39,17 +39,6 @@ Passionate about software development, philosophy, astronomy and science in gene
 
 
 
-<details>
-    <summary>About software and gear info…</summary>
-Everything as usual… A common notebook, a common keyboard, a common desk (with a common skull, a common black candle, a common crystal goblet, some common fountain ink pens and some other ordinary things).
-
-\
-Soon… 👁
-
-
-![bitcoin:32WLSuy2DR5CCAEk1B3N28M8mmTn77UAU9?message=theORDER](.../bitcoin.gif)
-</details>
-
 ## Most used languages
 ![lang Σ        ](https://img.shields.io/badge/-Σ-152?style=flat-square&logo=Σ&logoColor=fff)
 ![lang Shell     ](https://img.shields.io/badge/-Shell-17F?style=flat-square&logo=Shell&logoColor=fff)
@@ -117,10 +106,6 @@ Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=jmurowaniecki&show_icons=true&title_color=efefef&icon_color=f13&text_color=424242&bg_color=131313)
-
-
-
 ## Recomended books
 
 ![Corpus Hermeticum             ][book-corpus_hermeticum-ok              ]
@@ -133,6 +118,23 @@ Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 ![O poder do hábito             ][book-o_poder_do_hábito-ok              ]
 ![O universo numa casca de noz  ][book-o_universo_numa_casca_de_noz-ok   ]
 ![I, Robot                      ][book-i_robot-ok                        ]
+
+
+
+
+
+<details>
+    <summary>About more stats, software and gear info…</summary>
+    
+Everything as usual… A common notebook, a common keyboard, a common desk (with a common skull, a common black candle, a common crystal goblet, some common fountain ink pens and some other ordinary things).
+
+\
+Soon… 👁
+
+![](https://github-readme-stats-sigma-three.vercel.app/api?username=jmurowaniecki&show_icons=true&title_color=efefef&icon_color=f13&text_color=424242&bg_color=131313)
+
+![bitcoin:32WLSuy2DR5CCAEk1B3N28M8mmTn77UAU9?message=theORDER](.../bitcoin.gif)
+</details>
 
 
 
