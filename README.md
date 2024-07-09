@@ -173,7 +173,7 @@ Soon… 👁
 [ico-reddit       ]: https://img.shields.io/badge/Reddit-131313?style=flat-square&logo=Reddit
 [ico-medium       ]: https://img.shields.io/badge/Medium-131313?style=flat-square&logo=medium
 [ico-github       ]: https://img.shields.io/badge/Github-131313?style=flat-square&logo=Github
-[ico-twitter      ]: https://img.shields.io/badge/Twitter-131313?style=flat-square&logo=twitter
+[ico-twitter      ]: https://img.shields.io/badge/[X%7CTwitter]-131313?style=flat-square&logo=x
 [ico-keybase      ]: https://img.shields.io/badge/Keybase.io-131313?style=flat-square&logo=keybase
 [ico-stellar      ]: https://img.shields.io/badge/Stellar-lumens-131313?style=flat-square&logo=stellar&labelColor=333
 [ico-spotify      ]: https://img.shields.io/badge/Spotify-131313?style=flat-square&logo=spotify
