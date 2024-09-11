@@ -40,7 +40,8 @@ languages: # Populate your README.md with badges of your most used languages.
 		color=$$(echo "obase=16;$${NUMB}" | bc | awk '{ print("00000"$$1); }' | tail -c4); \
 		printf "![lang %-10s](https://img.shields.io/badge/-%s-%s?style=flat-square&logo=%s&logoColor=fff)\n" "$${lang}" "$${lang}" "$${color}" "$${lang}"; \
 	done > badges.md; sed -e '/^!\[lang.*$$/d; /Most used languages$$/a Σ' $(TARGET); sed -e '/^Σ$$/e cat badges.md' $(TARGET) -e '/^[|.]*Σ.*$$/d' > README.tmp; mv README.tmp $(TARGET); \
-	rm -Rf badges.md langs.json "$${TEMP}"
+	rm -Rf """$${TEMP}"
+
 
 books: # Recomended books
 	@\
@@ -72,8 +73,17 @@ books: # Recomended books
 covers: # Process book covers
 	@go run book-covers.go
 
-clean: # Remove temporary files.
+clean: clean-all  # Clean all.
+
+clean-all: \
+	clean-temp \
+	clean-badges
+
+clean-temp: # Remove temporary files.
 	@rm -Rf temporary*
+
+clean-badges: # Remove badges and languages info.
+	@rm -Rf badges.md langs.json
 
 #
 help: # Shows this help.
