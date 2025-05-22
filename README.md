@@ -1,7 +1,5 @@
 # FULLSTACK DEV / TECH LEAD
-## TECHNOLOGY AGNOSTIC <small><small><sup>¹ Focused on solve peoples problems</sup></small></small>
-
-(1) _Languages, frameworks, platforms, and methods were - and will be - created with the purpose of solving problems, not grouping fans. I firmly believe that we can generate results regardless of the tool used._ And because of that, I declare myself technologically agnostic.
+## TECHNOLOGY AGNOSTIC <small><small><sup>¹ Solving human problems with thoughtful technology.</sup></small></small>
 
 [![Whatsapp     ][ico-whatsapp     ]][url-whatsapp     ]
 [![Linkedin     ][ico-linkedin     ]][url-linkedin     ]
@@ -16,7 +14,7 @@
 [![Reddit       ][ico-reddit       ]][url-reddit       ]
 [![Gmail        ][ico-gmail        ]][url-gmail        ]
 [![Facebook     ][ico-facebook     ]][url-facebook     ]
-
+[![Calendly     ][ico-calendly     ]][url-calendly     ]
 
 
 ## Most used languages
@@ -85,6 +83,7 @@
 Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 
 
+(1) _Languages, frameworks, platforms, and methods were - and will be - created with the purpose of solving problems, not grouping fans. I firmly believe that we can generate results regardless of the tool used._ And because of that, I declare myself technologically agnostic.
 
 <p align="center">
 👁 ∴ 🜏
@@ -103,6 +102,7 @@ Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 [url-keybase      ]: https://keybase.io/jmurowaniecki
 [url-stellar      ]: jmurowaniecki*keybase.io
 [url-spotify      ]: https://open.spotify.com/user/jenifferb0t
+[url-calendly     ]: https://calendly.com/johnmurowaniecki/30min
 [url-facebook     ]: https://facebook.com/jmurowaniecki
 [url-codewars     ]: https://www.codewars.com/users/jmurowaniecki
 [url-whatsapp     ]: https://api.whatsapp.com/send?phone=5551989042429&text=Hey%20john
@@ -121,7 +121,8 @@ Click [here](.github/workflows/badger.yml) and [here](Makefile) to see how.
 [ico-keybase      ]: https://img.shields.io/badge/Keybase.io-131313?style=flat-square&logo=keybase
 [ico-stellar      ]: https://img.shields.io/badge/Stellar-lumens-131313?style=flat-square&logo=stellar&labelColor=333
 [ico-spotify      ]: https://img.shields.io/badge/Spotify-131313?style=flat-square&logo=spotify
-[ico-facebook     ]: https://img.shields.io/badge/Facebook-131313?style=flat-square&logo=facebook
+[ico-calendly     ]: https://img.shields.io/badge/Calendly-131313?style=flat-square&logo=Calendly&logoColor=006bff
+[ico-facebook     ]: https://img.shields.io/badge/Facebook-131313?style=flat-square&logo=facebook&logoColor=4267B2
 [ico-instagram    ]: https://img.shields.io/badge/Instagram-131313?style=flat-square&logo=instagram
 [ico-whatsapp     ]: https://img.shields.io/badge/Whatsapp-131313?style=flat-square&logo=whatsapp
 [ico-linkedin     ]: https://img.shields.io/badge/LinkedIn-131313?style=flat-square&logo=Linkedin
