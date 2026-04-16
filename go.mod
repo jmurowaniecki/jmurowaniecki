@@ -1,6 +1,6 @@
 module book-cover
 
-go 1.25.0
+go 1.25.9
 
 require github.com/disintegration/imaging v1.6.2
 
