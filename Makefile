@@ -85,6 +85,12 @@ clean-temp: # Remove temporary files.
 clean-badges: # Remove badges and languages info.
 	@rm -Rf badges.md langs.json
 
+docker-build: # Build Docker container.
+	@docker build -t lambdadeveloper/jmurowaniecki:go -f Dockerfile .
+
+docker-run: # Run service in Docker container.
+	@docker run -it --rm -v "$$(pwd):/app" lambdadeveloper/jmurowaniecki:go sh
+
 #
 help: # Shows this help.
 	@\
